@@ -1,1 +1,1 @@
-SGP project
+SGP project.
