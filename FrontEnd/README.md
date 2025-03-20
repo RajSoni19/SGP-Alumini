@@ -38,13 +38,8 @@ The Alumni Management System has been developed with the following key features:
 ## 📂 Folder Structure
 
 - **frontend/**: Contains the frontend code developed in ReactJS.
-- **server/**: Contains the backend code developed in Node.js and Express.js.
+- **Backend/**: Contains the backend code developed in Node.js and Express.js.
   - **alumni_db.sql**: SQL database file containing site data.
 
 6. Start the frontend and backend servers with these commands: `npm run dev` in `frontend` and `npm start` in `server` folder.
 
-## 🤝 Contributing
-
-Contributions to the Alumni Management System are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
-
-Thank you for using the Alumni Management System! If you have any questions or need assistance, please don't hesitate to contact us.
